@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot-boilerplate",
+  "version": "1.0.0",
+  "description": "Discord bot template (using eris, eris-fleet)",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc && tsc-alias",
+    "start": "node dist/app.js"
+  },
+  "keywords": [],
+  "author": "bit0r1n",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.8.3",
+    "dotenv": "^16.0.3",
+    "tsc-alias": "^1.7.0"
+  },
+  "dependencies": {
+    "bufferutil": "^4.0.6",
+    "eris": "^0.16.1",
+    "eris-fleet": "^1.0.2",
+    "erlpack": "github:abalabahaha/erlpack",
+    "fuse.js": "^6.6.2",
+    "winston": "^3.8.2",
+    "winston-sentry-log": "^1.0.26",
+    "zlib-sync": "^0.1.7"
+  }
+}
