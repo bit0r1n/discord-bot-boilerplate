@@ -1,0 +1,14 @@
+{
+    "manageChannels": "Управлять каналами",
+    "manageGuild": "Управлять сервером",
+    "addReactions": "Добавлять реакции",
+    "viewChannel": "Просматривать каналы",
+    "readMessages": "Читать сообщения",
+    "sendMessages": "Отправлять сообщения",
+    "manageMessages": "Управлять сообщениями",
+    "embedLinks": "Встраивать ссылки",
+    "attachFiles": "Прикреплять файлы",
+    "readMessageHistory": "Читать историю сообщений",
+    "useExternalEmojis": "Использовать внешние эмодзи",
+    "sendMessagesInThreads": "Отправлять сообщения в ветках"
+}

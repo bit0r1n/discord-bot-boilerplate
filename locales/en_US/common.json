@@ -1,0 +1,4 @@
+{
+    "NO_USER_PERMISSIONS_ERROR": "You don't have these permissions to use command: `{0}`",
+    "NO_BOT_PERMISSIONS_ERROR": "I don't have these permissions to run command: `{0}`"
+}

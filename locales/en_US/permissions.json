@@ -1,0 +1,14 @@
+{
+    "manageChannels": "Manage Channels",
+    "manageGuild": "Manage Server",
+    "addReactions": "Add Reactions",
+    "viewChannel": "See Channels",
+    "readMessages": "Read Messages",
+    "sendMessages": "Send Messages",
+    "manageMessages": "Manage Messages",
+    "embedLinks": "Embed Links",
+    "attachFiles": "Attach Files",
+    "readMessageHistory": "Read Message History",
+    "useExternalEmojis": "Use External Emojis",
+    "sendMessagesInThreads": "Send Messages in Threads"
+}
